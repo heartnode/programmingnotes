@@ -6,3 +6,6 @@ date: 2020-11-11
 
 imap_open()
 imap_header()
+
+To enable php imap neeed to get homebrew-php-ext
+https://github.com/kabel/homebrew-php-ext
